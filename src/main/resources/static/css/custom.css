@@ -1,0 +1,22 @@
+/*********************************************************************************
+
+	Template Name: Boighor Bookshop Responsive Bootstrap4 Template  
+	Description: Template description
+	Version: 1.0
+	Note: This is custom css. All custom styles (user styles) declare here.
+
+**********************************************************************************/
+wn__newsletter__area
+{
+	position: relative;
+	height: 800px
+}
+.back{
+	background-image: url("/images/email.png");
+	height: 500px;
+	position: absolute;
+	left:-400px;
+	top:-120px;
+	background-repeat: no-repeat;
+	width: 1000px
+}
